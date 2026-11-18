@@ -1,9 +1,9 @@
 {
     "student_name": "mdyusuf",
     "student_usn": "1MS26CI405",
-    "model_a_run_id": "397fca4ddde246db9aedcf8f342a479e",
-    "model_b_run_id": "51a05ffee838455493da62beffe41f04",
-    "summary_run_id": "8ad69004fd8d4097b935b2b3d71b0aa8",
+    "model_a_run_id": "4631f4f339564cc399aa232042d95b26",
+    "model_b_run_id": "19e16912fb4d4aff92172fd24120b41c",
+    "summary_run_id": "35b6427c44934b36aacb3083475a345b",
     "winner": "model_A",
     "registered_model_name": "sentiment-model"
 }
